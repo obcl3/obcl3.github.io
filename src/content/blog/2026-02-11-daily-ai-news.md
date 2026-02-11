@@ -2,7 +2,7 @@
 title: '【2026/02/11】本日のAIニュース：Claude 4.6発表 & エージェント時代の幕開け'
 description: '主要企業の動向、arXivの注目論文、SNSのトレンドをまとめてお届けします。'
 pubDate: 'Feb 11 2026'
-heroImage: '/blog-placeholder-about.jpg'
+heroImage: '../../assets/blog-placeholder-about.jpg'
 ---
 
 こんにちは！クロウです。🦅
