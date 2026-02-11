@@ -1,6 +1,6 @@
 ---
 title: '【2026/02/11】ビジネスを加速させる最新AI動向：Claude 4.6発表と自律型エージェントの台頭'
-description: 'AIを使いこなしたいビジネスマン向けに、主要企業の最新ニュース、arXivの注目論文3選、SNSで話題のOpenClawやClaude Code、そして用語解説をお届けします。'
+description: 'AIを使いこなしたいビジネスマン向けに、主要企業の最新ニュース、arXivの注目論文3選、SNSで話題のOpenClawやClaude Code、震えるほど便利な用語解説をお届けします。'
 pubDate: 'Feb 11 2026'
 heroImage: '../../assets/blog-placeholder-about.jpg'
 ---
@@ -15,15 +15,15 @@ heroImage: '../../assets/blog-placeholder-about.jpg'
 
 #### **Anthropic: 「自律型エージェント」の最高峰、Claude 4.6 Opus登場**
 最新モデル「Claude 4.6 Opus」がリリースされました。コーディングとツール操作能力が飛躍的に向上し、特にPC操作を代行する「エージェント」としての実力は現在業界トップクラスです。
-*   参照: [Anthropic Newsroom](https://www.anthropic.com/news)
+- 参照: [Anthropic Newsroom](https://www.anthropic.com/news)
 
 #### **OpenAI: 推論モデルo1シリーズの最適化が加速**
 論理的思考に特化した「o1」シリーズのさらなる軽量化と高速化が進行中。複雑な経営分析やコード生成を、より低コストかつリアルタイムで実行できる環境が整いつつあります。
-*   参照: [OpenAI News](https://openai.com/news/)
+- 参照: [OpenAI News](https://openai.com/news/)
 
 #### **Google & Meta: デバイス上でのAI活用とオープンソースの進化**
 GoogleはGemini Nanoによるスマホ完結型AIを主導。Metaは次世代Llamaシリーズでオープンソースコミュニティを活性化。自社専用のAI環境を構築したい企業にとって、選択肢が大きく広がっています。
-*   参照: [Google Blog](https://blog.google/technology/ai/), [Meta AI](https://ai.meta.com/)
+- 参照: [Google Blog](https://blog.google/technology/ai/), [Meta AI](https://ai.meta.com/)
 
 ---
 
@@ -31,54 +31,54 @@ GoogleはGemini Nanoによるスマホ完結型AIを主導。Metaは次世代Lla
 
 現在SNS（XやGitHub）で特に注目を集めている、実戦的なAIエージェントツールをピックアップしました。
 
-*   **OpenClaw: パーソナルAIアシスタントの決定版**
+- **OpenClaw: パーソナルAIアシスタントの決定版**
     自分のPCやスマホで動かし、DiscordやSlackなど好きなチャネルでAIと対話できるOSSプロジェクト。高いカスタマイズ性と「自分専用」という安心感がビジネスマンの間で話題です。
-    *   参照: [GitHub - openclaw/openclaw](https://github.com/openclaw/openclaw)
-*   **Claude Code: 開発を加速させるCLIエージェント**
+    - 参照: [GitHub - openclaw/openclaw](https://github.com/openclaw/openclaw)
+- **Claude Code: 開発を加速させる CLIエージェント**
     Anthropicが提供する、ターミナル上で直接コードを書き、テストし、修正するエージェントツール。開発チームの生産性を劇的に変える可能性を秘めています。
-    *   参照: [Anthropic - Introducing Claude Code](https://www.anthropic.com/news/claude-3-5-sonnet) (※最新モデルと連動した開発者向け機能)
-*   **Context Engineering: プロンプトを超えた情報設計**
+    - 参照: [Anthropic - Introducing Claude Code](https://www.anthropic.com/news/claude-3-5-sonnet) (※最新モデルと連動した開発者向け機能)
+- **Context Engineering: プロンプトを超えた情報設計**
     単なる指示出しではなく、AIに「どの情報をどう渡すか」を設計する手法がトレンドに。RAG（検索拡張生成）の進化形として、社内データを扱う際の必須スキルになりつつあります。
-    *   参照: [GitHub Trending (Python)](https://github.com/trending?l=python)
+    - 参照: [GitHub Trending (Python)](https://github.com/trending?l=python)
 
 ---
 
 ### 3. arXiv 注目論文の深掘り (Research Deep Dive)
 
 #### **① Agent World Model (AWM)**
-*   **【要約】**
+- **【要約】**
     AIエージェントを鍛えるために、1,000種類以上の仮想環境を自動生成して「社会人研修」をさせる手法。
-*   **【詳細な説明】**
+- **【詳細な説明】**
     プログラムで無数のシミュレーション空間を作り出し、そこでAIに試行錯誤（強化学習）をさせます。これにより、未知のビジネス環境でも柔軟に対応できる汎用的な能力が身につきます。
-*   **【ひと言で言うと？】**
+- **【ひと言で言うと？】**
     「AIに無限の仮想空間で『現場経験』を積ませ、どんなタスクでもこなせるようにする技術」です。
-*   参照: [arXiv:2602.10090](https://arxiv.org/abs/2602.10090)
+- 参照: [arXiv:2602.10090](https://arxiv.org/abs/2602.10090)
 
 #### **② CODE-SHARP: スキルの自動発見と進化**
-*   **【要約】**
+- **【要約】**
     AIが自分自身で新しい「スキル」を発見し、それをコード形式で保存・進化させていくフレームワーク。
-*   **【詳細な説明】**
+- **【詳細な説明】**
     人間が報酬を細かく設定しなくても、基盤モデル（FM）を活用して「何が有益なスキルか」を自動で定義。従来のAIより複雑で長期的なプロジェクトを完遂する能力が大幅に向上しました。
-*   **【ひと言で言うと？】**
+- **【ひと言で言うと？】**
     「AIが自分で『仕事のコツ』を見つけ出し、マニュアル化して成長していく仕組み」です。
-*   参照: [arXiv:2602.10085](https://arxiv.org/abs/2602.10085)
+- 参照: [arXiv:2602.10085](https://arxiv.org/abs/2602.10085)
 
 #### **③ Chain of Mindset (CoM)**
-*   **【要約】**
+- **【要約】**
     問題の種類に応じて、AIが自分の「思考モード」を動的に切り替える推論手法。
-*   **【詳細な説明】**
+- **【詳細な説明】**
     AIに「論理脳」や「直感脳」といった異なる思考モードを持たせ、状況に応じてメタ・エージェントが最適なモードを選択。これにより、あらゆる分野で解答精度が向上しました。
-*   **【ひと言で言うと？】**
+- **【ひと言で言うと？】**
     「問題に合わせて頭の使い分けを行い、最も賢い答えを導き出す技術」です。
-*   参照: [arXiv:2602.10063](https://arxiv.org/abs/2602.10063)
+- 参照: [arXiv:2602.10063](https://arxiv.org/abs/2602.10063)
 
 ---
 
 ### 4. 今回の用語解説 (Glossary)
 
-*   **コンテキスト・エンジニアリング:** AIに対して、回答の精度を高めるために必要な背景情報を「最適に整理」して提供する技術。
-*   **自律型エージェント:** ゴールを与えれば、自ら手順を考え、ツールを使って実行まで行うAIシステム。
-*   **OSS (オープンソースソフトウェア):** ソースコードが公開され、誰でも改良や利用ができるソフトウェア。OpenClawなどが代表例。
+- **コンテキスト・エンジニアリング:** AIに対して、回答の精度を高めるために必要な背景情報を「最適に整理」して提供する技術。
+- **自律型エージェント:** ゴールを与えれば、自ら手順を考え、ツールを使って実行まで行うAIシステム。
+- **OSS (オープンソースソフトウェア):** ソースコードが公開され、誰でも改良や利用ができるソフトウェア。OpenClawなどが代表例。
 
 ---
 🦅 毎日のAIアップデートが、皆さんのビジネスに新しい風を吹き込みますように！
