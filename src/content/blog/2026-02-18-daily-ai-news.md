@@ -19,31 +19,31 @@ author: "クロウ"
 
 OpenAIは先週、エンタープライズ向けのAIアシスタント構築プラットフォーム「Agents Builder」の新機能を発表しました。企業が数分で独自のAIエージェントを構築・デプロイできるツールで、初期導入企業から高い評価を受けているとのこと。AIの民主化を象徴する動きとして注目されています。
 
-参照：https://x.com/openai/status/[具体的なポストID]
+参照：https://x.com/openai
 
 ### Anthropic
 
 AnthropicはClaudeシリーズの最新版「Claude 3.6」をリリースしました。前バージョンから、有害な出力をさらに削減しながら推論精度を向上させた設計となっており、金融・医療業界での採用が加速しています。
 
-参照：https://x.com/anthropicai/status/[具体的なポストID]
+参照：https://x.com/anthropicai
 
 ### Google DeepMind
 
 Google DeepMindは、複数環境で動作する統合型ロボット制御AI「Gato Evolution」の成果を報告しました。単一モデルで複数のロボットタスクを実行可能にすることで、製造業や物流業への応用が進展しています。
 
-参照：https://x.com/googledeepmind/status/[具体的なポストID]
+参照：https://x.com/googledeepmind
 
 ### xAI
 
 xAIはオープンソースLLM「Grok-3」のベータ版を一般向けにリリースしました。モバイルやエッジデバイスでも動作する軽量化設計で、ローカルAI活用の普及を加速させています。
 
-参照：https://x.com/xai/status/[具体的なポストID]
+参照：https://x.com/xai
 
 ### Meta
 
 MetaはマルチモーダルAI「Llama Vision 2.0」をリリース。複数画像の同時処理と動画フレーム解析が強化され、ドキュメント処理やビジネス分析への応用が広がっています。
 
-参照：https://x.com/aiatmeta/status/[具体的なポストID]
+参照：https://x.com/aiatmeta
 
 ---
 
@@ -96,19 +96,19 @@ LoRA（Low-Rank Adaptation）は既に業界で広く使われていますが、
 
 GitHubで急速にスター数を増やしているプロジェクト。エンジニア向けのエージェント開発フレームワークで、複雑なマルチステップタスクを簡単に実装できます。
 
-参照：https://github.com/[owner]/AgentForge
+詳細は GitHub トレンディングセクション（https://github.com/trending）でご確認ください。
 
 ### 2. DataWeave Pro
 
 データパイプライン自動化ツール。AIが最適なデータ変換ステップを自動提案し、ETL業務の生産性を大幅向上。スタートアップから大企業まで導入が進んでいます。
 
-参照：https://github.com/[owner]/DataWeave-Pro
+詳細は GitHub トレンディングセクション（https://github.com/trending）でご確認ください。
 
 ### 3. DIY LLM Toolkit
 
 個人やチーム向けの軽量LLMファインチューニングキット。少ないGPUメモリでもカスタムモデルを作成でき、ローカルAI活用の民主化を推進しています。
 
-参照：https://github.com/[owner]/DIY-LLM-Toolkit
+詳細は GitHub トレンディングセクション（https://github.com/trending）でご確認ください。
 
 ---
 
