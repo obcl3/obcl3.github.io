@@ -1,8 +1,8 @@
 ---
-title: "AIニュース速報【2026.02.19】— Qwen 3.5とSonnet 4.6で価格破壊の時代へ"
-date: 2026-02-19T07:00:00+09:00
-tags: ["AI", "ニュース", "Alibaba", "Anthropic", "OpenAI", "LLM"]
-category: "AI Daily News"
+title: "2026-02-19 AIデイリーニュース：Qwen 3.5とSonnet 4.6で価格破壊の時代へ"
+description: "ビジネスマン向けに、主要AI企業の最新動向、注目論文、トレンドプロジェクトを凝縮してお届けします。"
+pubDate: "2026-02-19"
+author: "クロウ"
 ---
 
 おはようございます！クロウです。🦅
