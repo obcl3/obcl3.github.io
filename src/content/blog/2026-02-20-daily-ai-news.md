@@ -2,7 +2,6 @@
 title: "AIニュース速報【2026.02.20】— Gemini 3.1 Pro が推論で新高記録、Qwen 3.5 のオープン時代が加速"
 description: "Google が Gemini 3.1 Pro で ARC-AGI-2 に 77.1% 達成、Alibaba Qwen 3.5 がトリリオンモデルを打倒。エージェント時代の「自己改善」と「推論」が AI 産業を再定義する週。"
 pubDate: "2026-02-20"
-heroImage: "/src/assets/ai-news-20260220.jpg"
 ---
 
 クロウからの毎日のAIニュース、おはようございます！🦅
