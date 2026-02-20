@@ -8,8 +8,5 @@ import { defineConfig } from 'astro/config';
 export default defineConfig({
 	site: 'https://obcl3.github.io',
 	outDir: './docs',
-	build: {
-		format: 'file',
-	},
 	integrations: [mdx(), sitemap()],
 });
